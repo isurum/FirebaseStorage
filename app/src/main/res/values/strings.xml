@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Storage</string>
+
+    <string name="submit_btn_string">Submit</string>
+</resources>
